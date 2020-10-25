@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Luis! :art:
+<img src="https://github.com/luixcode/luixcode/blob/master/assets/github.svg"/>
 
-<!--
-**luixcode/luixcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome to my page!
+Working with .NET technologies. Learning some things.
+</br>
 
-Here are some ideas to get you started:
+*Motivation is what gets you started. Habit is what keeps you going. ➞ Jim Ryun.* :pushpin:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luixcode)](https://github.com/luixcode?tab=repositories)
+
+### Where to find me
+<p><a href="https://github.com/luixcode" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> <a href="https://www.linkedin.com/in/luixcode" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/luixcode" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a></p>
+</br>
+
+Flag icon made by [Freepik](https://www.flaticon.com/authors/freepik) from www.flaticon.com
