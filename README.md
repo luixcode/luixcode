@@ -5,7 +5,7 @@
 Working with .NET technologies. Learning some things.
 </br>
 
-*Motivation is what gets you started. Habit is what keeps you going. ➞ Jim Ryun.* :pushpin:
+*"Motivation is what gets you started. Habit is what keeps you going." ➞ Jim Ryun.* :pushpin:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luixcode)](https://github.com/luixcode?tab=repositories)
 
