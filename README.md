@@ -21,12 +21,6 @@ It allows organizations to design visual workflows, integrate conversational cha
 
 ---
 
-## 📊 GitHub Activity
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luixcode&layout=compact&theme=graywhite)](https://github.com/luixcode?tab=repositories)
-
----
-
 ## 🌎 Where to find me
 
 <p>
