@@ -1,5 +1,5 @@
 # Hi there, I'm Luis 👋
-<img src="https://github.com/luixcode/luixcode/blob/master/assets/github.svg"/>
+
 
 ### Welcome to my page
 
