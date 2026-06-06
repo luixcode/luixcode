@@ -11,16 +11,6 @@ I like working on automation, scalable systems, and tools that help businesses o
 
 ---
 
-## 🚀 Projects
-
-**ZallyBot**  
-A platform for operating customer conversations and internal processes through WhatsApp at scale.  
-It allows organizations to design visual workflows, integrate conversational channels with their systems, automate operational decisions, and capture structured interaction data for analysis.
-
-🌐 https://zallybot.com
-
----
-
 ## 🌎 Where to find me
 
 <p>
